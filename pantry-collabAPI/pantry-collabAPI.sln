@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pantry-collabAPI", "pantry-collabAPI.csproj", "{15CD12ED-1E82-42DD-89E0-02CF91F91BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CD12ED-1E82-42DD-89E0-02CF91F91BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CD12ED-1E82-42DD-89E0-02CF91F91BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CD12ED-1E82-42DD-89E0-02CF91F91BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CD12ED-1E82-42DD-89E0-02CF91F91BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228B35E0-8AEB-43D6-A5FC-C73594B609A2}
+	EndGlobalSection
+EndGlobal
